@@ -12,4 +12,13 @@
   <a href="https://discord.com/users/1281271704148119665">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+
+  <br/>  
+
+
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sleeplessmiro&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
 </div>
