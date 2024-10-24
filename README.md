@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="giphy.com/gifs/kpop-ive-rei-hnYvGTo7gQwouQFru4" width="100"/>
+  <img src="giphy.com/gifs/kpop-ive-rei-hnYvGTo7gQwouQFru4" width="50"/>
 </div>
 
 <div id="badges">
