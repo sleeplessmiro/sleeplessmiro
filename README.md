@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="giphy.com/gifs/kpop-ive-rei-hnYvGTo7gQwouQFru4" width="50"/>
+  <img src="" width="50"/>
 </div>
 
-<div id="badges">
+<div id="badges" badge-align="center">
   <a href="https://open.spotify.com/user/31a6jmcd7rozmqxgxpqjsc5akpz4">
     <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white))" alt="Facebook Badge"/>
   </a>
