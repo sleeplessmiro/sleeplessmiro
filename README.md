@@ -6,7 +6,7 @@
   <img src="https://github.com/sleeplessmiro/sleeplessmiro/blob/main/com-webp-to-gif-converter-unscreen%20(2).gif?raw=true" width="300"/>
 </div>
 
-<div id="header" alight="center">
+<div id="header" alight="left">
   <img src="https://github.com/sleeplessmiro/sleeplessmiro/blob/main/com-webp-to-gif-converter-unscreen%20(1).gif?raw=true" width="300"/>
 </div>
 
