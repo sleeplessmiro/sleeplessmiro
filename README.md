@@ -1,10 +1,10 @@
-<div id="header">
+<div id="header" align="left>
   <img src="https://github.com/sleeplessmiro/sleeplessmiro/blob/main/com-webp-to-gif-converter-unscreen.gif?raw=true" width="300"/>
 </div>
-<div id="header">
+<div id="header" align="right">
   <img src="https://github.com/sleeplessmiro/sleeplessmiro/blob/main/com-webp-to-gif-converter-unscreen%20(2).gif?raw=true" width="300"/>
 </div>
-<div id="header">
+<div id="header" alight="center">
   <img src="https://github.com/sleeplessmiro/sleeplessmiro/blob/main/com-webp-to-gif-converter-unscreen%20(1).gif?raw=true" width="300"/>
 </div>
 
