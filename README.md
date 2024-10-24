@@ -1,15 +1,12 @@
 <div id="header" align="center">
-  <img src="https://github.com/sleeplessmiro/sleeplessmiro/blob/main/com-webp-to-gif-converter-unscreen.gif?raw=true" width="200"/>
+  <img src="https://github.com/sleeplessmiro/sleeplessmiro/blob/main/com-webp-to-gif-converter-unscreen.gif?raw=true" width="100"/>
 </div>
-
 <div id="header" align="left">
-  <img src="https://github.com/sleeplessmiro/sleeplessmiro/blob/main/com-webp-to-gif-converter-unscreen%20(2).gif?raw=true" width="200"/>
+  <img src="https://github.com/sleeplessmiro/sleeplessmiro/blob/main/com-webp-to-gif-converter-unscreen%20(2).gif?raw=true" width="100"/>
 </div>
-
 <div id="header" align="right">
-  <img src="https://github.com/sleeplessmiro/sleeplessmiro/blob/main/com-webp-to-gif-converter-unscreen%20(1).gif?raw=true" width="200"/>
+  <img src="https://github.com/sleeplessmiro/sleeplessmiro/blob/main/com-webp-to-gif-converter-unscreen%20(1).gif?raw=true" width="100"/>
 </div>
-
 
 ## Connect with me  
 <div id="badges" align="center">
